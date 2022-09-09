@@ -1,16 +1,18 @@
-### Hi there 👋
+# HELLO TECHIES; WELCOME 👋🏾
 
-<!--
-**Gozinne/Gozinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and Physiotherapist. I am enthusiastic about learning, developing high-quality products, working on projects that have a global influence, impacting knowledge, community development and relations, and content management. I ALSO speak at some meetups/conferences...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: She/her
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests:  Front Engineer, Back Engineer or UI Engineer (Intern or Junior level).
+- 📫 You can [view my resume](#) and contact me by emailing abangwuchigorzirim@gmail.com.
+
+---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gozinne&show_icons=true&include_all_commits=true&hide_border=true" alt="Gozinne's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gozinne" alt="Gozinne's GitHub stats" /> |
+| ------------- | ------------- |
