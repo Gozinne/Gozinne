@@ -6,7 +6,7 @@ I'm a Software Engineer and Physiotherapist. I am enthusiastic about learning, d
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: My goals is to bridge the gap between healthcare and technology in underdeveloped countries such as Nigeria.
+- 💡 Fun fact: My goal is to bridge the gap between healthcare and technology in underdeveloped countries such as Nigeria.
 - 🌱 I’m currently learning JavaScript, Linux, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer and Front Engineer (Intern or Junior level).
