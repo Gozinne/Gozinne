@@ -9,7 +9,7 @@ I'm a Software Engineer and Physiotherapist. I am enthusiastic about learning, d
 - 💡 Fun fact: My goal is to bridge the gap between healthcare and technology in underdeveloped countries such as Nigeria.
 - 🌱 I’m currently learning JavaScript, Linux, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Engineer and Front Engineer (Intern or Junior level).
+- 💼 Job interests: Cloud DevOps and Front Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing abangwuchigorzirim@gmail.com.
 
 ---
